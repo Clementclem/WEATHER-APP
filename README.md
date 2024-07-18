@@ -1,7 +1,3 @@
-Sure! Here is a README file for your weather app project:
-
----
-
 # Weather App
 
 This Weather App is a simple web application that allows users to get the current weather information for any city. It fetches weather data from the OpenWeatherMap API and displays it in a user-friendly interface.
